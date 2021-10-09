@@ -1,0 +1,3 @@
+Brute force can crack part of the message.
+Keys being a single integer can be cracked down using brute force
+Limitation on key as per number of character
